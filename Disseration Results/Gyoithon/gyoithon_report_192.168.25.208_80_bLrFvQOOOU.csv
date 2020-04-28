@@ -1,0 +1,901 @@
+fqdn,ip_addr,port,cloud_type,method,origin_url,url,vendor_name,prod_name,prod_version,prod_trigger,prod_type,prod_vuln,origin_login,origin_login_trigger,wrong_comment,error_msg,server_header,log,date
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172050562.log,16/04/2020 17:20
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,wordpress,wordpress,*,Powered by WordPress,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?page_id=2,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172111379.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4#respond,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172123800.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=3#comments,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172136737.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=201104,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172149782.log,16/04/2020 17:21
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1#comments,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172203000.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?m=200909,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172215896.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,wordpress,wordpress,*,"""wp-admin/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-register.php,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""user
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172229093.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,-,-,-,-,-,-,"Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-admin/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 50.0 %
+Url : 100.0 %","Log : <input type=""submit"" name=""submit"" id=""submit"" value=""Login@<input type=""password""@Username
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172238011.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?cat=1,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172247189.log,16/04/2020 17:22
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=4,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172300325.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,wordpress,wordpress,*,Powered by WordPress,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172313673.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,wordpress,wordpress,*,Powered by WordPress,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : - %
+Url : 0.0 %","Log : -
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208:80/wordpress/,-,-,-,-,-,-,"Log : - %
+Url : 0.0 %","Log : -
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172328142.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,-,-,-,-,-,-,"Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-admin/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/wp-login.php?action=lostpassword,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 37.5 %
+Url : 100.0 %","Log : <input type=""text"" name=""email@Username@<input type=""text"" name=""user
+Url : login",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172342735.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,openssl,openssl,0.9.8,OpenSSL/0.9.8,Tool,"CVE-2016-8610
+CVE-2017-3735
+CVE-2009-3245
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,wordpress,wordpress,*,"""http://192.168.25.208/wordpress/wp-",CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,openssl,openssl,0.9.8k,OpenSSL/0.9.8k,Tool,"CVE-2017-3735
+CVE-2009-3245
+CVE-2011-4109
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,apache,http_server,2.2.14,Apache/2.2.14,Web,"CVE-2017-3167
+CVE-2017-3169
+CVE-2017-7668
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,mod_ssl,mod_ssl,2.2.14,mod_ssl/2.2.14,Tool,Cannot search.,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,wordpress,wordpress,*,://192.168.25.208/wordpress/xmlrpc.php,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,php,php,5.3.2,PHP/5.3.2,Language,"CVE-2015-8994
+CVE-2016-7478
+CVE-2011-3268
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,wordpress,wordpress,2,WordPress 2.0,CMS,"CVE-2009-2853
+CVE-2006-4028
+CVE-2012-2399
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,ubuntu,ubuntu_linux,*,(Ubuntu),OS,"CVE-2005-0109
+CVE-2004-0882
+CVE-2004-0888
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,*,wordpress,*,X-Pingback,CMS,"CVE-2018-20148
+CVE-2017-14723
+CVE-2017-16510
+","Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -",-,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
+192.168.25.208,192.168.25.208,80,Unknown,Crawling,http://192.168.25.208/wordpress/,http://192.168.25.208/wordpress/?p=1,-,-,-,-,-,-,"Log : 25.0 %
+Url : 0.0 %","Log : <input type=""text"" name=""email
+Url : -","""http://binarybonsai.com/kubrick/ """,-,Server: Apache/2.2.14 (Ubuntu) mod_mono/2.4.3 PHP/5.3.2-1ubuntu4.30 with Suhosin-Patch proxy_html/3.0.1 mod_python/3.3.1 Python/2.6.5 mod_ssl/2.2.14 OpenSSL/0.9.8k Phusion_Passenger/4.0.38 mod_perl/2.0.4 Perl/v5.10.1,/root/GyoiThon/logs/192.168.25.208_80/http_192.168.25.208_80_20200416172351660.log,16/04/2020 17:23
